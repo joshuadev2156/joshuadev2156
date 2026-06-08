@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @joshuadev2156
-- 👀 I’m interested in web development, artificial inteligence and networking
-- 🌱 I’m currently learning artificial inteligence and relational database(mySql)
-- 💞️ I’m looking to collaborate on general programming
-- 📫 How to reach me via phone call 0741949370 WhatsApp or email kamadijoshua057@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Joshua Kamadi
+A Kenya-based software engineer designing data-driven systems across databases, networks, hardware, and applied AI. I build reliable backends, model and query data at scale, architect connected network services, troubleshoot hardware issues, and ship intelligent features end-to-end. Outside tech, I love nature, football, and farming — and I aspire to advocate for green computing.
 
 <!---
 joshuadev2156/joshuadev2156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
